@@ -1,0 +1,13 @@
+1. Cinema rating table contains a cinema id "75" that is not in the cinema table
+2. Genre table has null id for "Undefined" genre description
+3. Movie table has duplicate records of movie id "317"
+4. Movie Cinema table has cinema id "987" that does not exist in cinema table
+5. Movie Cinema table has movie id "1234" that does not exist in movie table
+6. Movie Company table has movie id "1233" that does not exist in movie table
+7. Production Company table has duplicate records of company id "18880"
+8. Production Company table has some duplicate for the company name
+9. Sale table has sale total price does not match with sale_number_of_tickets*sale_unit_price, sale id "2500"
+10.The sale table has a sale that the date is on the year of 2050
+
+
+
